@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Animation.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Board.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="BoardItem.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Bomb.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="BombBonus.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="BonusAnimation.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="BonusItem.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="CleverGuard.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="CoinBonus.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlBarController.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Controller.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Door.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Explosion.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="GameController.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="GameResources.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Guard.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelLoad.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadController.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="LoopSound.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuController.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerAnimation.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="RemovableItem.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Robot.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Rock.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleGuard.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="StaticAnimation.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="TimedItem.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="TimedItemAnimation.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Wall.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="WindowManager.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="wintools.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuButton.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadLevelButton.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuButtonBase.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuWindowManager.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="SpeedBonus.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="LifeBonus.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="MessageBox.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Animation.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="Board.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="BoardItem.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="Bomb.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="BombBonus.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="BonusAnimation.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="BonusItem.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="CleverGuard.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="CoinBonus.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="consts.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlBarController.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="Controller.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="Door.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="Explosion.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="GameController.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="GameResources.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="Graph.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="Guard.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelLoad.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadController.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="LoopSound.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuController.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerAnimation.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="RemovableItem.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="Robot.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="Rock.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="SimpleGuard.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="StaticAnimation.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="TimedItem.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="TimedItemAnimation.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="types.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="Wall.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="WindowManager.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="wintools.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuButton.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadLevelButton.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuWindowManager.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuButtonBase.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="LifeBonus.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="SpeedBonus.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="MessageBox.h">
+      <Filter>header</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Bomberman.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="header">
+      <UniqueIdentifier>{37f20dbc-43b4-4a9a-95c3-d9dd49347deb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source">
+      <UniqueIdentifier>{a8760275-5a19-4ecc-afe5-264a3cb1d7af}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
